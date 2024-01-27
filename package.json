@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-workspace",
+  "version": "1.0.0",
+  "description": "Set up MongoDB and ways to interact with it using Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeSeoul/mongodb-workspace.git"
+  },
+  "author": "Bryan \"Beege\" Berry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeSeoul/mongodb-workspace/issues"
+  },
+  "homepage": "https://github.com/CodeSeoul/mongodb-workspace#readme",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "mongodb": "^6.3.0"
+  }
+}
